@@ -1,0 +1,45 @@
+
+.container {
+  width: 80%;
+  margin: auto,
+}
+
+.list {
+  display:flex;
+  flex-direction: row;
+  margin-left: 100px;
+
+}
+
+.list li {
+  margin-top:180px;
+  font-size: 20px;
+  font-weight: 600;
+ 
+}
+
+
+
+.list .myImg {
+  width: 250px;
+  
+}
+
+#addToCart {
+  height: 50px;
+  width: 160px;
+  margin-top: 30px;
+  margin-bottom: 25px;
+  border: none;
+  border-radius: 30px;
+  font-size: 25px;
+  font-weight: 600;
+}
+#addToCart:hover {
+  height: 60px;
+  width: 170px;
+}
+
+#div1 h5 {
+  color : red;
+}
